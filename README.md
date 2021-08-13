@@ -22,7 +22,7 @@ The image snapshots my overall experience. I am able to zoom-in and get into det
 
 ## Capabilities
 - <img height="20" src="./leadership.svg"> Leadership with Empathy (People and Technical)
-- <img height="20" src="./matrix_numbers.svg"> Software & Data Engineering
+- <img height="20" src="./matrix.jpg"> Software & Data Engineering
 
 
 📈 my github stats
