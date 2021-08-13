@@ -11,11 +11,11 @@
 
 <br />
 
+![Pradeep Overall](./pradeep_github.png)
+
 TL;DR: I am [Pradeep](https://www.linkedin.com/in/pradeepmacharla/).  
 The image snapshots my overall experience. I am able to zoom-in and get into details, at the same time zoom-out and step back to see the big picture as the situation demands. I have led, built and maintained software systems on the web at various scalability levels. I am humbled at the pace of technology advances and eager to learn as much as I can.
 
-
-  <img align="right" alt="GIF" src="./pradeep_github.png" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:pradeep@seleniumframework.com)
 - 💬 ask me about anything, i am happy to help;
