@@ -1,8 +1,11 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-PradeepMacharla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeepmacharla/)](https://www.linkedin.com/in/pradeepmacharla/)
 
-[![Amazon Books](https://img.shields.io/badge/-CI_Android_Apps-orange?style=for-the-badge&logo=Amazon&logoColor=white&link=https://www.amazon.com/Android-Continuous-Integration-Build-Deploy-Test-Automation/dp/1484227956)](https://www.amazon.com/Android-Continuous-Integration-Build-Deploy-Test-Automation/dp/1484227956)
+[![Linkedin Badge](https://img.shields.io/badge/-PradeepMacharla-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradeepmacharla/)](https://www.linkedin.com/in/pradeepmacharla/) |  [![Amazon Books](https://img.shields.io/badge/-CI_Android_Apps-orange?style=for-the-badge&logo=Amazon&logoColor=white&link=https://www.amazon.com/Android-Continuous-Integration-Build-Deploy-Test-Automation/dp/1484227956)](https://www.amazon.com/Android-Continuous-Integration-Build-Deploy-Test-Automation/dp/1484227956)
+
+
+
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=machzqcq.machzqcq)
 
