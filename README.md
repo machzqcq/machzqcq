@@ -9,8 +9,10 @@
 
 ***
 
-TL;DR: I am [Pradeep](https://www.linkedin.com/in/pradeepmacharla/).  
-The image snapshots my overall experience. I am able to zoom-in and get into details, at the same time zoom-out and step back to see the big picture as the situation demands. I have led, built and maintained software systems on the web at various scalability levels. I am humbled at the pace of technology advances and eager to learn as much as I can.
+TL;DR: I am [Pradeep](https://www.linkedin.com/in/pradeepmacharla/), an entrepreneur, investor, innovator, leader, manager....*Titles are in the eyes of the beholder*   
+
+<br>
+I am able to zoom-in and get into details, at the same time zoom-out and step back to see the big picture as the situation demands. I have led, built and maintained software systems on the web at various scalability levels. I am humbled at the pace of technology advances and eager to learn as much as I can.
 
   
 - 💼 any freelance work? do reach, [email](mailto:pradeep@seleniumframework.com)
