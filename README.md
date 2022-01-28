@@ -7,7 +7,7 @@
 
 ***
 
-![Pradeep Overall](./pradeep_github.png)
+![Pradeep Overall](./pradeep_github_new.png)
 
 ***
    
