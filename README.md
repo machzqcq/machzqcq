@@ -24,4 +24,3 @@ I am able to zoom-in and get into details, at the same time zoom-out and step ba
 - <img height="20" src="./matrix.jpg"> Software & Data Engineering
 
 ***
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=machzqcq&show_icons=true&theme=gotham" alt="machzqcq" />
